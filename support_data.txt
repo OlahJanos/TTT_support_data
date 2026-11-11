@@ -1,0 +1,6 @@
+{
+  "trees_planted_count": 132,
+  "ocean_cleanup_kg": 132,
+  "habitat_restored_m2": 12500
+  "last_updated": "2026-11-11",
+}
